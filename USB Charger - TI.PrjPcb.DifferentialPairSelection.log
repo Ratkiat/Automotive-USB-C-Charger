@@ -1,0 +1,860 @@
+Diagnostic format=2
+Stage=resolve selected schematic wires
+Project=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\USB Charger - TI.PrjPcb
+Sheet=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+Selected wire 1=124000000,97000000
+Selected wire 2=124000000,98000000
+View 0 net=VIN_PROT
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=14000000,82000000,20000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=20000000,80000000,20000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=20000000,82000000,23000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,94000000,42000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,95000000,42000000,95000000 path=1 P=0 N=0
+View 0 net=VIN_FILTERED
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=27000000,82000000,30000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=30000000,80000000,30000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=30000000,82000000,35000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,80000000,35000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,82000000,40000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=40000000,80000000,40000000,82000000 path=1 P=0 N=0
+View 0 net=VIN
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,66000000,54000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,67000000,54000000,68000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,67000000,58000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,66000000,58000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,67000000,82000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,64000000,82000000,65000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,65000000,82000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,66000000,82000000,67000000 path=1 P=0 N=0
+View 0 net=VBAT_FUSED
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,96000000,43000000,96000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,97000000,43000000,97000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=41000000,102000000,48000000,102000000 path=1 P=0 N=0
+View 0 net=USB_VBUS
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,57000000,50000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,58000000,50000000,59000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,58000000,62000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,61000000,50000000,62000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,78000000,50000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,79000000,54000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,55000000,54000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,55000000,55000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,78000000,54000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,79000000,58000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,78000000,58000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,79000000,62000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,55000000,62000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,55000000,63000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,58000000,82000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,78000000,62000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,79000000,66000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=66000000,78000000,66000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=77000000,77000000,77000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=84000000,77000000,91000000,77000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=91000000,77000000,91000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=100000000,100000000,105000000,100000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,92000000,105000000,95000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,92000000,111000000,92000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,95000000,105000000,100000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,95000000,111000000,95000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,100000000,111000000,100000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=109000000,66000000,112000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,97000000,134000000,97000000 path=1 P=0 N=0
+View 0 net=USB_SBUS
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,98000000,134000000,98000000 path=1 P=0 N=0
+View 0 net=PMOS_SOURCE
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=17000000,102000000,24000000,102000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,95000000,27000000,95000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,97000000,27000000,97000000 path=1 P=0 N=0
+View 0 net=PMOS_GATE
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,94000000,25000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,96000000,27000000,96000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=25000000,94000000,27000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=29000000,102000000,35000000,102000000 path=1 P=0 N=0
+View 0 net=PGND
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=20000000,77000000,20000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=30000000,77000000,30000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,77000000,35000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=40000000,77000000,40000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,75000000,50000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,75000000,54000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=53000000,102000000,55000000,102000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,50000000,54000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,50000000,58000000,50000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,63000000,54000000,64000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,63000000,58000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,75000000,54000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,75000000,58000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,50000000,58000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,63000000,58000000,64000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,75000000,58000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,75000000,62000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,75000000,62000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,75000000,66000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=66000000,75000000,66000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,60000000,96000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,60000000,103000000,60000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,61000000,96000000,62000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,48000000,107000000,48000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,91000000,107000000,93000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,93000000,107000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,93000000,111000000,93000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,94000000,111000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,104000000,111000000,104000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=111000000,101000000,111000000,104000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,96000000,130000000,96000000 path=1 P=0 N=0
+View 0 net=NetU?_24
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetU?_23
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetU?_22
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetU?_18
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetU?_17
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetU?_10
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetU?_7
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=78000000,45000000,78000000,49000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=78000000,49000000,82000000,49000000 path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=59000000,55000000,60000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=60000000,55000000,60000000,57000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=60000000,57000000,82000000,57000000 path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=69000000,59000000,82000000,59000000 path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=69000000,61000000,70000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=70000000,60000000,70000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=70000000,60000000,82000000,60000000 path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=69000000,63000000,82000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,62000000,82000000,63000000 path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetL?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,63000000,96000000,64000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,64000000,96000000,65000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,65000000,96000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,66000000,103000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,66000000,103000000,68000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,66000000,105000000,66000000 path=1 P=0 N=0
+View 0 net=NetJ?_MH6
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_MH5
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_MH4
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_MH3
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_B7
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_B6
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_A8
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_A7
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetJ?_A6
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,53000000,54000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,54000000,58000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,53000000,58000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,54000000,64000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=64000000,45000000,64000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=64000000,54000000,71000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,51000000,71000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,51000000,82000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,54000000,82000000,54000000 path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=67000000,55000000,68000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=68000000,53000000,68000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=68000000,55000000,71000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,55000000,71000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,56000000,82000000,56000000 path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,67000000,96000000,68000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,68000000,97000000,68000000 path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 0 net=CC2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,56000000,103000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,54000000,103000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,56000000,106000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,101000000,129000000,101000000 path=1 P=0 N=0
+View 0 net=CC1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,55000000,99000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,54000000,99000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,55000000,106000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=106000000,99000000,111000000,99000000 path=1 P=0 N=0
+View 0 net=AGND
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,54000000,50000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=61000000,62000000,61000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=61000000,63000000,63000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,59000000,63000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,59000000,65000000,59000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,61000000,63000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,61000000,65000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,63000000,65000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=68000000,50000000,68000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,50000000,74000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,52000000,74000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,52000000,82000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,55000000,82000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,51000000,99000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,51000000,103000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,51000000,103000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=112000000,48000000,114000000,48000000 path=1 P=0 N=0
+View 0: nets=68, items=210, lines=148
+View 1 net=AGND
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,54000000,50000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=61000000,62000000,61000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=61000000,63000000,63000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,59000000,63000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,59000000,65000000,59000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,61000000,63000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,61000000,65000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=63000000,63000000,65000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=68000000,50000000,68000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,50000000,74000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,52000000,74000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,52000000,82000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=74000000,55000000,82000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,51000000,99000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,51000000,103000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,51000000,103000000,52000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=112000000,48000000,114000000,48000000 path=1 P=0 N=0
+View 1 net=CC1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,55000000,99000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,54000000,99000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=99000000,55000000,106000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=106000000,99000000,111000000,99000000 path=1 P=0 N=0
+View 1 net=CC2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,56000000,103000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,54000000,103000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,56000000,106000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,101000000,129000000,101000000 path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,53000000,54000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,54000000,58000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,53000000,58000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,54000000,64000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=64000000,45000000,64000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=64000000,54000000,71000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,51000000,71000000,54000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,51000000,82000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,54000000,82000000,54000000 path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=67000000,55000000,68000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=68000000,53000000,68000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=68000000,55000000,71000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,55000000,71000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=71000000,56000000,82000000,56000000 path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,67000000,96000000,68000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,68000000,97000000,68000000 path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetC?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_A6
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_A7
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_A8
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_B6
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_B7
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_MH3
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_MH4
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_MH5
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetJ?_MH6
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetL?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,63000000,96000000,64000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,64000000,96000000,65000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,65000000,96000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,66000000,103000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,66000000,103000000,68000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=103000000,66000000,105000000,66000000 path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_1
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=78000000,45000000,78000000,49000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=78000000,49000000,82000000,49000000 path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=59000000,55000000,60000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=60000000,55000000,60000000,57000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=60000000,57000000,82000000,57000000 path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=69000000,59000000,82000000,59000000 path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=69000000,61000000,70000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=70000000,60000000,70000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=70000000,60000000,82000000,60000000 path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=69000000,63000000,82000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,62000000,82000000,63000000 path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetR?_2
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_7
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_10
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_17
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_18
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_22
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_23
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=NetU?_24
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+View 1 net=PGND
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=20000000,77000000,20000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=30000000,77000000,30000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,77000000,35000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=40000000,77000000,40000000,78000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,75000000,50000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,75000000,54000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=53000000,102000000,55000000,102000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,50000000,54000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,50000000,58000000,50000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,63000000,54000000,64000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,63000000,58000000,63000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,75000000,54000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,75000000,58000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,50000000,58000000,51000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,63000000,58000000,64000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,75000000,58000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,75000000,62000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,75000000,62000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,75000000,66000000,75000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=66000000,75000000,66000000,76000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,60000000,96000000,61000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,60000000,103000000,60000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=96000000,61000000,96000000,62000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,48000000,107000000,48000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,91000000,107000000,93000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,93000000,107000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,93000000,111000000,93000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,94000000,111000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=107000000,104000000,111000000,104000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=111000000,101000000,111000000,104000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,96000000,130000000,96000000 path=1 P=0 N=0
+View 1 net=PMOS_GATE
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,94000000,25000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,96000000,27000000,96000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=25000000,94000000,27000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=29000000,102000000,35000000,102000000 path=1 P=0 N=0
+View 1 net=PMOS_SOURCE
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=17000000,102000000,24000000,102000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,95000000,27000000,95000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=18000000,97000000,27000000,97000000 path=1 P=0 N=0
+View 1 net=USB_SBUS
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,98000000,134000000,98000000 path=1 P=0 N=0
+View 1 net=USB_VBUS
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,57000000,50000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,58000000,50000000,59000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,58000000,62000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,61000000,50000000,62000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,78000000,50000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=50000000,79000000,54000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,55000000,54000000,56000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,55000000,55000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,78000000,54000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,79000000,58000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,78000000,58000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,79000000,62000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,55000000,62000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,55000000,63000000,55000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,58000000,82000000,58000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,78000000,62000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=62000000,79000000,66000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=66000000,78000000,66000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=77000000,77000000,77000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=84000000,77000000,91000000,77000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=91000000,77000000,91000000,79000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=100000000,100000000,105000000,100000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,92000000,105000000,95000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,92000000,111000000,92000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,95000000,105000000,100000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,95000000,111000000,95000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=105000000,100000000,111000000,100000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=109000000,66000000,112000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=124000000,97000000,134000000,97000000 path=1 P=0 N=0
+View 1 net=VBAT_FUSED
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,96000000,43000000,96000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,97000000,43000000,97000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=41000000,102000000,48000000,102000000 path=1 P=0 N=0
+View 1 net=VIN
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,66000000,54000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,67000000,54000000,68000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=54000000,67000000,58000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,66000000,58000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=58000000,67000000,82000000,67000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,64000000,82000000,65000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,65000000,82000000,66000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=82000000,66000000,82000000,67000000 path=1 P=0 N=0
+View 1 net=VIN_FILTERED
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=27000000,82000000,30000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=30000000,80000000,30000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=30000000,82000000,35000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,80000000,35000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,82000000,40000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=40000000,80000000,40000000,82000000 path=1 P=0 N=0
+View 1 net=VIN_PROT
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ item owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=14000000,82000000,20000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=20000000,80000000,20000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=20000000,82000000,23000000,82000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,94000000,42000000,94000000 path=1 P=0 N=0
+ line owner=C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc coords=35000000,95000000,42000000,95000000 path=1 P=0 N=0
+View 1: nets=68, items=210, lines=148

@@ -1,0 +1,145 @@
+LOCAL COMPONENT EXPORT v0.5
+START: 2026-10-26 16:00:21.516
+16:00:21.517 ENTRY: Run Script wrapper reached; before export function
+16:00:21.518 ENTRY: export function body reached
+16:00:21.518 PREFLIGHT: check PCBServer and Client
+16:00:21.518 PREFLIGHT: GetWorkspace
+16:00:21.518 PREFLIGHT: focused document
+16:00:21.518 PREFLIGHT: focused document path
+16:00:21.518 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+16:00:21.518 PREFLIGHT: read active schematic
+16:00:21.520 PREFLIGHT: read source view
+16:00:21.520 PREFLIGHT: find owning project
+16:00:21.520 PREFLIGHT: project and export controls ready
+16:00:21.521 PREFLIGHT: initialize selection
+16:00:21.521 STAGE: choose export options
+16:00:23.841 STAGE: plan selected symbols
+16:00:23.913 SYMBOL PLAN: 1 selected; 1 library entries
+16:00:23.913 STAGE: read selected footprint sources
+16:00:23.921 STAGE: resolve all schematic footprint choices
+16:00:23.925 RESOLVE FOOTPRINT CHOICE: U? -> NTCS0603_VIS
+16:00:23.925 Donor: U?
+Source: Altium Content Vault
+Donor library identifier: Altium Content Vault
+Donor item: CMP-00030-44325454-1
+Model library lookup: 
+
+16:00:23.928 CHOICE CACHE: stage matching cached footprints; verify identity metadata where available; work folder: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_160023_927
+16:00:27.760 CACHE WARNING: Cache identity metadata incomplete for NTCS0603_VIS; using the unambiguous cached footprint. Its Workspace revision could not be verified.
+
+16:00:28.227 CACHED FOOTPRINT CHOICE: NTCS0603_VIS <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_160023_927\choice-0.PcbLib
+16:00:28.228 STAGE: read existing project library
+16:00:28.340 EXPORT PLAN:
+Selection: Sheet1.SchDoc
+Source: selected schematic footprint choices; no PCB required.
+
+ADD  NTCS0603_VIS  <- U? (schematic choice)
+All existing schematic footprint choices are included; the active choice is kept.
+
+LINK 1 selected schematic symbol(s) to the local file.
+Component Workspace source and all footprint-choice Workspace links will be cleared.
+SKIP entries reuse the existing local footprint; pin maps and parameters are kept.
+
+Symbols -> ProjectSymbols.SchLib:
+NTCS0603E3472GHT
+
+Same-name symbols reuse the first selected instance; conflicting data stops export.
+
+16:00:28.347 LOCAL COMPONENT EXPORT v0.5
+16:00:28.348 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+16:00:28.348 LINK SELECTED SCHEMATIC SYMBOLS: 1
+16:00:28.348 SOURCE: schematic model libraries/cache; no PCB is read or updated.
+16:00:28.348 PROJECT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\USB Charger - TI.PrjPcb
+16:00:28.348 TARGET: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+16:00:28.348 STAGE: snapshot schematic parameters
+PARAMETER SNAPSHOT: UID=APKGGOKN; count=21
+COMMENT: NTCS0603E3472GHT
+DESCRIPTION: NTCS0603E3472GHT Thermistor NTC 4.7K Ohm 2% 2-Pin 0603 Surface Mount Solder Pad 3830K -4.5 to -4 T/R Automotive
+PARAMETER: Min Operating Temperature = -40?C
+PARAMETER: Accuracy = 1%
+PARAMETER: Case Code (Imperial) = 0603
+PARAMETER: Packaging = Digi-Reel?
+PARAMETER: Mount = Surface Mount
+PARAMETER: Length = 1.6mm
+PARAMETER: Number of Pins = 2
+PARAMETER: Resistance = 4.7k?
+PARAMETER: Case Code (Metric) = 1608
+PARAMETER: RoHS = Compliant
+PARAMETER: Tolerance = 2%
+PARAMETER: Power Rating = 125mW
+PARAMETER: NexarPartId = 44325454
+PARAMETER: Contact Plating = Tin
+PARAMETER: Radiation Hardening = No
+PARAMETER: Schedule B = 8533400080, 8533400080
+PARAMETER: Termination = SMD/SMT
+PARAMETER: Max Operating Temperature = 150?C
+PARAMETER: Depth = 800?m
+PARAMETER: Case/Package = 0603
+PARAMETER: Max Power Dissipation = 125mW
+16:00:28.396 PARAMETER SNAPSHOTS SAVED: 21
+16:00:28.396 ADD: NTCS0603_VIS <- U? (schematic choice)
+16:00:28.396 PCB INSTANCE: 
+16:00:28.396 STAGE: stage schematic footprint sources
+16:00:30.232 SOURCE LIBRARY CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_160023_927\choice-0.PcbLib
+16:00:30.600 STAGE: clear Workspace links in the temporary library (choose Yes)
+16:00:32.856 STAGE: merge selected footprints into a working library
+16:00:34.683 MERGED: NTCS0603_VIS
+16:00:35.405 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347-merged.PcbLib
+16:00:35.732 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347-merged.PcbLib
+16:00:35.733 STAGE: verify saved library
+16:00:36.582 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347-merged.PcbLib
+16:00:36.810 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347-merged.PcbLib
+16:00:36.810 STAGE: publish verified project library
+16:00:36.822 BACKUP: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib.FootprintExport-20261026_160028_347.bak
+16:00:36.822 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+16:00:37.123 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+16:00:37.136 RESULT: PUBLISHED
+16:00:37.136 STAGE: export selected symbols
+16:00:37.138 SYMBOL STAGE: open staged schematic library
+16:00:38.109 SYMBOL COPY: NTCS0603E3472GHT
+16:00:38.440 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_160037_137.SchLib
+16:00:38.731 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_160037_137.SchLib
+16:00:38.732 SYMBOL STAGE: verify saved library
+16:00:40.266 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_160037_137.SchLib
+16:00:40.572 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_160037_137.SchLib
+16:00:40.575 SYMBOL BACKUP: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib.LocalComponents-20261026_160037_137.bak
+16:00:40.575 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib
+16:00:40.859 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib
+16:00:40.861 SYMBOL RESULT: PUBLISHED C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib
+16:00:40.861 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_160037_137.SchLib
+16:00:40.862 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_160037_137.SchLib
+16:00:40.863 STAGE: verify local library before linking schematic symbols
+16:00:41.590 STAGE: link selected schematic symbols to local footprints
+16:00:41.596 LINK LOCAL: U?; UID=APKGGOKN; footprint=NTCS0603_VIS
+16:00:41.596 PREVIOUS COMPONENT WORKSPACE: vault=B7D15EC3-160A-466F-A46C-7801FE6295A7; item=19E3E86B-C332-4A21-BEC6-1646524E42A5; revision=854D47FF-5CCF-498D-8AA9-2E3B47CFA2B4
+16:00:41.596 PREVIOUS FOOTPRINT:
+Footprint: NTCS0603_VIS
+Current: 1  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (1:1),(2:2)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: 5FCCCF9C-EE94-4E53-980A-2E3FBC61DD40
+Model Revision GUID: D0EA2814-D990-4CBE-9315-4A93DDD95F50
+
+16:00:41.703 PARAMETERS VERIFIED: UID=APKGGOKN; count=21
+16:00:41.752 LOCAL LINK VERIFIED: APKGGOKN -> C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+16:00:41.801 RESULT: LOCAL LINKS VERIFIED on 1 schematic symbols
+16:00:41.801 STAGE: link selected local symbols
+16:00:41.957 SYMBOL LINK: UID=APKGGOKN; NTCS0603E3472GHT
+16:00:42.033 CLEANUP: restore source view and release PCB/library references
+16:00:42.034 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347.PcbDoc
+16:00:42.035 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347.PcbLib
+16:00:42.036 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347.PcbLib
+16:00:42.335 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347.PcbLib
+16:00:42.337 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347.PcbLib
+16:00:42.337 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347-merged.PcbLib
+16:00:42.339 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_160028_347-merged.PcbLib
+16:00:42.339 CLEANUP: open published project library
+16:00:43.917 CLEANUP: free selection lists
+16:00:43.927 CLEANUP COMPLETE
+16:00:43.927 RESULT DIALOG: opening
+16:00:45.955 RESULT DIALOG: closed
+16:00:45.957 EXPORT PROCEDURE: return

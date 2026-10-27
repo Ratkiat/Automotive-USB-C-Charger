@@ -1,0 +1,194 @@
+LOCAL COMPONENT EXPORT v0.5
+START: 2026-10-26 11:22:29.308
+11:22:29.309 ENTRY: Run Script wrapper reached; before export function
+11:22:29.309 ENTRY: export function body reached
+11:22:29.309 PREFLIGHT: check PCBServer and Client
+11:22:29.309 PREFLIGHT: GetWorkspace
+11:22:29.309 PREFLIGHT: focused document
+11:22:29.309 PREFLIGHT: focused document path
+11:22:29.311 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+11:22:29.311 PREFLIGHT: read active schematic
+11:22:29.312 PREFLIGHT: read source view
+11:22:29.312 PREFLIGHT: find owning project
+11:22:29.312 PREFLIGHT: project and export controls ready
+11:22:29.313 PREFLIGHT: initialize selection
+11:22:29.313 STAGE: choose export options
+11:22:37.515 STAGE: plan selected symbols
+11:22:37.544 SYMBOL PLAN: 1 selected; 1 library entries
+11:22:37.544 STAGE: read selected footprint sources
+11:22:37.547 STAGE: resolve all schematic footprint choices
+11:22:37.550 RESOLVE FOOTPRINT CHOICE: C? -> FP-CGA5L-0_3-0_1-MFG
+11:22:37.550 Donor: C?
+Source: Altium Content Vault
+Donor library identifier: Altium Content Vault
+Donor item: CMP-08246-001891-1
+Model library lookup: 
+
+11:22:37.554 CHOICE CACHE: stage exact Vault/Item/Revision matches; work folder: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553
+11:22:41.571 CACHED FOOTPRINT CHOICE: FP-CGA5L-0_3-0_1-MFG <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-0.PcbLib
+11:22:41.572 RESOLVE FOOTPRINT CHOICE: C? -> FP-CGA5L-0_3-0_1-IPC_B
+11:22:41.572 REUSE EXACT CACHED REVISION: FP-CGA5L-0_3-0_1-IPC_B <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-1.PcbLib
+11:22:41.956 RESOLVE FOOTPRINT CHOICE: C? -> FP-CGA5L-0_3-0_1-IPC_A
+11:22:41.957 REUSE EXACT CACHED REVISION: FP-CGA5L-0_3-0_1-IPC_A <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-2.PcbLib
+11:22:42.342 RESOLVE FOOTPRINT CHOICE: C? -> FP-CGA5L-0_3-0_1-IPC_C
+11:22:42.343 REUSE EXACT CACHED REVISION: FP-CGA5L-0_3-0_1-IPC_C <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-3.PcbLib
+11:22:42.697 STAGE: read existing project library
+11:22:42.755 EXPORT PLAN:
+Selection: Sheet1.SchDoc
+Source: selected schematic footprint choices; no PCB required.
+
+ADD  FP-CGA5L-0_3-0_1-MFG  <- C? (schematic choice)
+ADD  FP-CGA5L-0_3-0_1-IPC_B  <- C? (schematic choice)
+ADD  FP-CGA5L-0_3-0_1-IPC_A  <- C? (schematic choice)
+ADD  FP-CGA5L-0_3-0_1-IPC_C  <- C? (schematic choice)
+All existing schematic footprint choices are included; the active choice is kept.
+
+LINK 1 selected schematic symbol(s) to the local file.
+Component Workspace source and all footprint-choice Workspace links will be cleared.
+SKIP entries reuse the existing local footprint; pin maps and parameters are kept.
+
+Symbols -> ProjectSymbols.SchLib:
+CGA5L1X7R1H106K160AC
+
+Same-name symbols reuse the first selected instance; conflicting data stops export.
+
+11:22:42.761 LOCAL COMPONENT EXPORT v0.5
+11:22:42.769 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+11:22:42.769 LINK SELECTED SCHEMATIC SYMBOLS: 1
+11:22:42.769 SOURCE: schematic model libraries/cache; no PCB is read or updated.
+11:22:42.769 PROJECT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\USB Charger - TI.PrjPcb
+11:22:42.769 TARGET: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+11:22:42.769 STAGE: snapshot schematic parameters
+PARAMETER SNAPSHOT: UID=AJRGZDWA; count=11
+COMMENT: CGA5L1X7R1H106K160AC
+DESCRIPTION: Cap Ceramic 10uF 50V X7R 10% Pad SMD 1206 +125?C Automotive T/R
+PARAMETER: Voltage Rating = 50V
+PARAMETER: Capacitance = 10uF
+PARAMETER: Case/Package = 1206
+PARAMETER: Ratings = AEC-Q200
+PARAMETER: Mount = Surface Mount
+PARAMETER: Max Operating Temperature = 125?C
+PARAMETER: Min Operating Temperature = -55?C
+PARAMETER: Tolerance = 10%
+PARAMETER: Packaging = Tape and Reel
+PARAMETER: Case Code (Metric) = 3216
+PARAMETER: Case Code (Imperial) = 1206
+11:22:42.786 PARAMETER SNAPSHOTS SAVED: 11
+11:22:42.786 ADD: FP-CGA5L-0_3-0_1-MFG <- C? (schematic choice)
+11:22:42.786 PCB INSTANCE: 
+11:22:42.787 ADD: FP-CGA5L-0_3-0_1-IPC_B <- C? (schematic choice)
+11:22:42.787 PCB INSTANCE: 
+11:22:42.787 ADD: FP-CGA5L-0_3-0_1-IPC_A <- C? (schematic choice)
+11:22:42.787 PCB INSTANCE: 
+11:22:42.787 ADD: FP-CGA5L-0_3-0_1-IPC_C <- C? (schematic choice)
+11:22:42.787 PCB INSTANCE: 
+11:22:42.788 STAGE: stage schematic footprint sources
+11:22:44.369 STAGED FOOTPRINT CHOICE: FP-CGA5L-0_3-0_1-IPC_B <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-1.PcbLib
+11:22:44.926 STAGED FOOTPRINT CHOICE: FP-CGA5L-0_3-0_1-IPC_A <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-2.PcbLib
+11:22:45.487 STAGED FOOTPRINT CHOICE: FP-CGA5L-0_3-0_1-IPC_C <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-3.PcbLib
+11:22:45.944 SOURCE LIBRARY CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-3.PcbLib
+11:22:46.169 SOURCE LIBRARY CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-2.PcbLib
+11:22:46.380 SOURCE LIBRARY CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-1.PcbLib
+11:22:46.526 SOURCE LIBRARY CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261026_112237_553\choice-0.PcbLib
+11:22:46.924 STAGE: clear Workspace links in the temporary library (choose Yes)
+11:22:48.450 STAGE: merge selected footprints into a working library
+11:22:49.418 MERGED: FP-CGA5L-0_3-0_1-MFG
+11:22:49.646 MERGED: FP-CGA5L-0_3-0_1-IPC_B
+11:22:49.883 MERGED: FP-CGA5L-0_3-0_1-IPC_A
+11:22:50.082 MERGED: FP-CGA5L-0_3-0_1-IPC_C
+11:22:50.436 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761-merged.PcbLib
+11:22:50.647 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761-merged.PcbLib
+11:22:50.647 STAGE: verify saved library
+11:22:51.285 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761-merged.PcbLib
+11:22:51.426 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761-merged.PcbLib
+11:22:51.427 STAGE: publish verified project library
+11:22:51.436 BACKUP: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib.FootprintExport-20261026_112242_761.bak
+11:22:51.436 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+11:22:51.631 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+11:22:51.640 RESULT: PUBLISHED
+11:22:51.640 STAGE: export selected symbols
+11:22:51.641 SYMBOL STAGE: open staged schematic library
+11:22:52.321 SYMBOL COPY: CGA5L1X7R1H106K160AC
+11:22:52.471 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_112251_640.SchLib
+11:22:52.680 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_112251_640.SchLib
+11:22:52.681 SYMBOL STAGE: verify saved library
+11:22:53.630 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_112251_640.SchLib
+11:22:53.840 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_112251_640.SchLib
+11:22:53.842 SYMBOL BACKUP: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib.LocalComponents-20261026_112251_640.bak
+11:22:53.843 SYMBOL RESULT: PUBLISHED C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib
+11:22:53.843 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_112251_640.SchLib
+11:22:53.844 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261026_112251_640.SchLib
+11:22:53.844 STAGE: verify local library before linking schematic symbols
+11:22:54.414 STAGE: link selected schematic symbols to local footprints
+11:22:54.419 LINK LOCAL: C?; UID=AJRGZDWA; footprint=FP-CGA5L-0_3-0_1-MFG
+11:22:54.419 PREVIOUS COMPONENT WORKSPACE: vault=B7D15EC3-160A-466F-A46C-7801FE6295A7; item=2BB9570D-5DF4-4D4C-8123-7BA6E7DBC65E; revision=01BAA777-12EE-4717-8CB7-746EE39F0EB7
+11:22:54.420 PREVIOUS FOOTPRINT:
+Footprint: FP-CGA5L-0_3-0_1-MFG
+Current: 1  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (1:1),(2:2)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: F1AEAF48-AAE8-4608-85CB-036AFCA5CA0A
+Model Revision GUID: 98B76743-2D89-4826-92FB-FDC50EFB3768
+
+11:22:54.421 PREVIOUS FOOTPRINT CHOICE:
+Footprint: FP-CGA5L-0_3-0_1-IPC_B
+Current: 0  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (1:1),(2:2)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: DC9F06EA-DE3A-413D-9A9C-A9AAFB44E821
+Model Revision GUID: F9F4C692-AA99-447A-B8FF-310DB264E001
+
+11:22:54.422 LOCAL FOOTPRINT CHOICE: AJRGZDWA -> FP-CGA5L-0_3-0_1-IPC_B
+11:22:54.422 PREVIOUS FOOTPRINT CHOICE:
+Footprint: FP-CGA5L-0_3-0_1-IPC_A
+Current: 0  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (1:1),(2:2)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: 676EAD17-16C7-4574-8C19-5E099F11E1F2
+Model Revision GUID: 4105F0D6-218B-4859-A3D2-D1E9E73DFE58
+
+11:22:54.423 LOCAL FOOTPRINT CHOICE: AJRGZDWA -> FP-CGA5L-0_3-0_1-IPC_A
+11:22:54.424 PREVIOUS FOOTPRINT CHOICE:
+Footprint: FP-CGA5L-0_3-0_1-IPC_C
+Current: 0  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (1:1),(2:2)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: BD83B41F-DC00-4ACF-A205-2485ACEC289F
+Model Revision GUID: 1224337F-EEC4-4AFE-8F00-303342887D11
+
+11:22:54.424 LOCAL FOOTPRINT CHOICE: AJRGZDWA -> FP-CGA5L-0_3-0_1-IPC_C
+11:22:54.452 PARAMETERS VERIFIED: UID=AJRGZDWA; count=11
+11:22:54.469 LOCAL LINK VERIFIED: AJRGZDWA -> C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+11:22:54.487 RESULT: LOCAL LINKS VERIFIED on 1 schematic symbols
+11:22:54.487 STAGE: link selected local symbols
+11:22:54.542 SYMBOL LINK: UID=AJRGZDWA; CGA5L1X7R1H106K160AC
+11:22:54.561 CLEANUP: restore source view and release PCB/library references
+11:22:54.562 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761.PcbDoc
+11:22:54.563 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761.PcbLib
+11:22:54.563 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761.PcbLib
+11:22:54.752 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761.PcbLib
+11:22:54.754 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761.PcbLib
+11:22:54.754 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761-merged.PcbLib
+11:22:54.755 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261026_112242_761-merged.PcbLib
+11:22:54.755 CLEANUP: open published project library
+11:22:55.622 CLEANUP: free selection lists
+11:22:55.630 CLEANUP COMPLETE
+11:22:55.631 RESULT DIALOG: opening
+11:22:57.541 RESULT DIALOG: closed
+11:22:57.542 EXPORT PROCEDURE: return

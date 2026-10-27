@@ -1,0 +1,143 @@
+LOCAL COMPONENT EXPORT v0.5
+START: 2026-10-27 15:56:26.391
+15:56:26.391 ENTRY: Run Script wrapper reached; before export function
+15:56:26.392 ENTRY: export function body reached
+15:56:26.392 PREFLIGHT: check PCBServer and Client
+15:56:26.392 PREFLIGHT: GetWorkspace
+15:56:26.392 PREFLIGHT: focused document
+15:56:26.392 PREFLIGHT: focused document path
+15:56:26.392 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+15:56:26.393 PREFLIGHT: read active schematic
+15:56:26.393 PREFLIGHT: read source view
+15:56:26.394 PREFLIGHT: find owning project
+15:56:26.394 PREFLIGHT: project and export controls ready
+15:56:26.395 PREFLIGHT: initialize selection
+15:56:26.395 STAGE: choose export options
+15:56:28.153 STAGE: plan selected symbols
+15:56:28.214 SYMBOL PLAN: 1 selected; 1 library entries
+15:56:28.214 STAGE: read selected footprint sources
+15:56:28.222 STAGE: resolve all schematic footprint choices
+15:56:28.225 RESOLVE FOOTPRINT CHOICE: D? -> ONSC-SOD-123-2-425-04_V
+15:56:28.225 Donor: D?
+Source: Altium Content Vault
+Donor library identifier: Altium Content Vault
+Donor item: CMP-1060-00307-1
+Model library lookup: 
+
+15:56:28.228 CHOICE CACHE: prefer exact revisions; allow unambiguous incomplete metadata with warnings; work folder: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261027_155628_227
+15:56:32.017 CHOICE CACHE WARNING: ONSC-SOD-123-2-425-04_V: cache GUID metadata is incomplete; revision could not be verified. Source: C:\ProgramData\Altium\Altium Designer {E6720568-96A1-41AB-9684-647EC16D56CA}\VaultsFileCache\75319F8472BDD5B2E7C8A1159EE4DAFC\Released\ONSC-SOD-123-2-425-04_V.PcbLib
+15:56:32.392 CACHED FOOTPRINT CHOICE: ONSC-SOD-123-2-425-04_V <- C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261027_155628_227\choice-0.PcbLib
+15:56:32.394 STAGE: read existing project library
+15:56:33.255 EXPORT PLAN:
+Selection: Sheet1.SchDoc
+Source: selected schematic footprint choices; no PCB required.
+
+ADD  ONSC-SOD-123-2-425-04_V  <- D? (schematic choice)
+All existing schematic footprint choices are included; the active choice is kept.
+
+LINK 1 selected schematic symbol(s) to the local file.
+Component Workspace source and all footprint-choice Workspace links will be cleared.
+SKIP entries reuse the existing local footprint; pin maps and parameters are kept.
+
+Symbols -> ProjectSymbols.SchLib:
+SZMMSZ4709T1G
+
+Same-name symbols reuse the first selected instance; conflicting data stops export.
+
+15:56:33.262 LOCAL COMPONENT EXPORT v0.5
+15:56:33.262 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+15:56:33.263 LINK SELECTED SCHEMATIC SYMBOLS: 1
+15:56:33.263 SOURCE: schematic model libraries/cache; no PCB is read or updated.
+15:56:33.263 PROJECT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\USB Charger - TI.PrjPcb
+15:56:33.263 TARGET: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+15:56:33.263 STAGE: snapshot schematic parameters
+PARAMETER SNAPSHOT: UID=BNTXCDTJ; count=17
+COMMENT: SZMMSZ4709T1G
+DESCRIPTION: Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel
+PARAMETER: RoHS = Pb-Free
+PARAMETER: DatasheetVersion = Rev. 9
+PARAMETER: ComponentLink3URL = http://www.onsemi.com/pub_link/Collateral/425-04.PDF
+PARAMETER: PackageVersion = Rev. G, 10/2009
+PARAMETER: ComponentLink1Description = Manufacturer URL
+PARAMETER: Packing = Tape and Reel
+PARAMETER: P Max (W) = 0.5
+PARAMETER: PackageReference = SOD-123-2-425-04
+PARAMETER: ComponentLink2URL = http://www.onsemi.com/pub_link/Collateral/MMSZ4678T1-D.PDF
+PARAMETER: Mounting Technology = Surface Mount
+PARAMETER: PackageDescription = 2-Pin SOD, Body 1.6 x 2.69 mm
+PARAMETER: PartNumber = SZMMSZ4709T1G
+PARAMETER: ComponentLink1URL = http://www.onsemi.com/
+PARAMETER: ComponentLink3Description = Package Specification
+PARAMETER: ComponentLink2Description = Datasheet
+PARAMETER: Manufacturer = On Semiconductor
+PARAMETER: VZ Typ (V) = 24
+15:56:33.297 PARAMETER SNAPSHOTS SAVED: 17
+15:56:33.298 ADD: ONSC-SOD-123-2-425-04_V <- D? (schematic choice)
+15:56:33.298 PCB INSTANCE: 
+15:56:33.298 STAGE: stage schematic footprint sources
+15:56:35.104 SOURCE LIBRARY CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\FootprintLink-import-20261027_155628_227\choice-0.PcbLib
+15:56:35.396 STAGE: clear Workspace links in the temporary library (choose Yes)
+15:56:37.191 STAGE: merge selected footprints into a working library
+15:56:38.824 MERGED: ONSC-SOD-123-2-425-04_V
+15:56:39.285 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261-merged.PcbLib
+15:56:39.558 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261-merged.PcbLib
+15:56:39.558 STAGE: verify saved library
+15:56:40.441 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261-merged.PcbLib
+15:56:40.627 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261-merged.PcbLib
+15:56:40.627 STAGE: publish verified project library
+15:56:40.640 BACKUP: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib.FootprintExport-20261027_155633_261.bak
+15:56:40.640 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+15:56:40.823 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+15:56:40.836 RESULT: PUBLISHED
+15:56:40.836 STAGE: resolve published footprints for local linking
+15:56:40.837 STALE FOOTPRINT INDEX: ONSC-SOD-123-2-425-04_V in C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+15:56:40.864 VERIFIED LOCAL FOOTPRINT SOURCE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints-20261027_155640_837.PcbLib
+15:56:40.864 STAGE: export selected symbols
+15:56:40.865 SYMBOL STAGE: open staged schematic library
+15:56:41.822 SYMBOL COPY: SZMMSZ4709T1G
+15:56:42.027 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261027_155640_864.SchLib
+15:56:42.529 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261027_155640_864.SchLib
+15:56:42.529 SYMBOL STAGE: verify saved library
+15:56:44.032 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261027_155640_864.SchLib
+15:56:44.270 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261027_155640_864.SchLib
+15:56:44.272 SYMBOL BACKUP: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib.LocalComponents-20261027_155640_864.bak
+15:56:44.273 SYMBOL RESULT: PUBLISHED C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectSymbols.SchLib
+15:56:44.275 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261027_155640_864.SchLib
+15:56:44.275 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\LocalComponents-20261027_155640_864.SchLib
+15:56:44.276 STAGE: verify local library before linking schematic symbols
+15:56:44.996 STAGE: link selected schematic symbols to local footprints
+15:56:45.002 LINK LOCAL: D?; UID=BNTXCDTJ; footprint=ONSC-SOD-123-2-425-04_V
+15:56:45.002 PREVIOUS COMPONENT WORKSPACE: vault=B7D15EC3-160A-466F-A46C-7801FE6295A7; item=0559E1E3-F3BD-4499-87F8-7A3CFAF09619; revision=B6940286-B33C-4434-9F1A-2DF88E71E450
+15:56:45.003 PREVIOUS FOOTPRINT:
+Footprint: ONSC-SOD-123-2-425-04_V
+Current: 1  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (1:1),(2:2)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: 9812A947-7AF5-40B0-A4C3-16A8F32970A5
+Model Revision GUID: 7410C0B7-849B-4EA5-B5A1-057B0912D6FC
+
+15:56:45.069 PARAMETERS VERIFIED: UID=BNTXCDTJ; count=17
+15:56:45.102 LOCAL LINK VERIFIED: BNTXCDTJ -> C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints-20261027_155640_837.PcbLib
+15:56:45.138 RESULT: LOCAL LINKS VERIFIED on 1 schematic symbols
+15:56:45.138 STAGE: link selected local symbols
+15:56:45.254 SYMBOL LINK: UID=BNTXCDTJ; SZMMSZ4709T1G
+15:56:45.341 CLEANUP: restore source view and release PCB/library references
+15:56:45.342 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+15:56:45.512 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+15:56:45.513 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261.PcbDoc
+15:56:45.514 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261.PcbLib
+15:56:45.514 CLOSE DOCUMENT: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261.PcbLib
+15:56:45.756 DOCUMENT CLOSED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261.PcbLib
+15:56:45.756 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261.PcbLib
+15:56:45.756 CLEANUP FILE: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261-merged.PcbLib
+15:56:45.758 TEMPORARY FILE DELETED: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\FootprintExport-20261027_155633_261-merged.PcbLib
+15:56:45.758 CLEANUP: open published project library
+15:56:47.836 CLEANUP: free selection lists
+15:56:47.845 CLEANUP COMPLETE
+15:56:47.845 RESULT DIALOG: opening
+15:56:49.489 RESULT DIALOG: closed
+15:56:49.490 EXPORT PROCEDURE: return

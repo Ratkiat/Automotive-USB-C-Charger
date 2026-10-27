@@ -1,0 +1,25 @@
+LOCAL COMPONENT EXPORT v0.5
+START: 2026-10-27 17:50:57.650
+17:50:57.650 ENTRY: Run Script wrapper reached; before export function
+17:50:57.650 ENTRY: export function body reached
+17:50:57.650 PREFLIGHT: check PCBServer and Client
+17:50:57.650 PREFLIGHT: GetWorkspace
+17:50:57.650 PREFLIGHT: focused document
+17:50:57.651 PREFLIGHT: focused document path
+17:50:57.651 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+17:50:57.651 PREFLIGHT: read active schematic
+17:50:57.652 PREFLIGHT: read source view
+17:50:57.652 PREFLIGHT: find owning project
+17:50:57.653 PREFLIGHT: project and export controls ready
+17:50:57.653 PREFLIGHT: initialize selection
+17:50:57.654 STAGE: choose export options
+17:51:00.543 STAGE: plan selected symbols
+17:51:00.621 SYMBOL PLAN: 1 selected; 1 library entries
+17:51:00.621 STAGE: read selected footprint sources
+17:51:00.630 STAGE: resolve all schematic footprint choices
+17:51:00.634 RESOLVE FOOTPRINT CHOICE: NTC1 -> NTCS0603_VIS
+17:51:00.649 Donor: NTC1
+Source: ProjectSymbols.SchLib
+Data-file lookup: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+
+17:51:00.652 STAGE: read existing project library

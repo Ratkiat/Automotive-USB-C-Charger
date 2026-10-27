@@ -1,0 +1,6 @@
+17:51:00.631 Footprint Link v0.21 - ZIP import / local linking / moved-library path repair
+17:51:00.631 COMMAND: EXPORT FOOTPRINT CHOICES
+17:51:00.632 SCHEMATIC: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
+17:51:00.633 SCOPE: script state only; later preview/ECO execution is not captured.
+17:51:14.597 LAST STAGE: link selected local symbols
+17:51:14.597 RESULT: EXPORT_FOOTPRINT_CHOICES
