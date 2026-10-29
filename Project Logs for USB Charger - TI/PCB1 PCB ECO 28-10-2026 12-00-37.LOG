@@ -1,0 +1,24 @@
+Added Component: Designator=TP1(FP-9901-MFG)
+Added Component: Designator=TP2(FP-9901-MFG)
+Added Component: Designator=TP3(FP-9901-MFG)
+Added Component: Designator=TP4(FP-9901-MFG)
+Added Component: Designator=TP5(FP-9901-MFG)
+Added Component: Designator=TP6(FP-9901-MFG)
+Added Component: Designator=TP7(FP-9901-MFG)
+Added Component: Designator=TP8(FP-9901-MFG)
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Added Member To Class: ClassName=Sheet1 Member=Component TP1 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP3 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP5 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP6 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP7 Test point
+Added Member To Class: ClassName=Sheet1 Member=Component TP8 Test point
