@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=P1 Old Footprint=638263122002 New Footprint=638207122002
+Change Component Comment : Designator=P1 Old Comment=638263122002 New Comment=638207122002
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=904E60E9-23DB-4D32-BB66-7E3706B202B7 New ItemGUID=EC24B481-FAAF-44D6-B87C-BBDFCE053603 Old RevisionGUID=0FB7A039-6DE8-44F1-B493-74255D8570ED New RevisionGUID=2A4DE176-AAF6-4BC2-BA64-F81C8437EC8E
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Class Member: Failed to add class member : Component TP1 Test point
+Add Class Member: Failed to add class member : Component TP2 Test point
+Add Class Member: Failed to add class member : Component TP3 Test point
+Add Class Member: Failed to add class member : Component TP4 Test point
+Add Class Member: Failed to add class member : Component TP5 Test point
+Add Class Member: Failed to add class member : Component TP6 Test point
+Add Class Member: Failed to add class member : Component TP7 Test point
+Add Class Member: Failed to add class member : Component TP8 Test point

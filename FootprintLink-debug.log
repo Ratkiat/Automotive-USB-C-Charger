@@ -1,6 +1,16 @@
-17:51:00.631 Footprint Link v0.21 - ZIP import / local linking / moved-library path repair
-17:51:00.631 COMMAND: EXPORT FOOTPRINT CHOICES
-17:51:00.632 SCHEMATIC: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
-17:51:00.633 SCOPE: script state only; later preview/ECO execution is not captured.
-17:51:14.597 LAST STAGE: link selected local symbols
-17:51:14.597 RESULT: EXPORT_FOOTPRINT_CHOICES
+21:08:53.495 Footprint Link v0.21 - ZIP import / local linking / moved-library path repair
+21:08:53.495 COMMAND: EXPORT FOOTPRINT CHOICES
+21:08:53.496 SCHEMATIC: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\01_Main_Circuit.SchDoc
+21:08:53.501 SCOPE: script state only; later preview/ECO execution is not captured.
+21:08:53.544 ZIP HELPER: powershell.exe -NoLogo -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File "C:\Users\Lenovo\Desktop\Altium Scripts\Altium Script\projects\ComponentTools\FootprintChoiceCache.ps1" -Action ResolveChoices -WorkFolder "C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542" -ResultPath "C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542\choice-cache.result"
+21:08:55.318 ZIP HELPER RESULT:
+OK
+638207122002
+B7D15EC3-160A-466F-A46C-7801FE6295A7
+5B8A1FFD-61F6-4EE2-B560-1ACC5D2069A8
+CFB71233-CE1B-4608-A472-AD8B9B489651
+C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542\choice-0.PcbLib
+
+21:09:20.327 SCHEDULE WORK FOLDER CLEANUP: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542
+21:09:20.337 LAST STAGE: link selected local symbols
+21:09:20.338 RESULT: EXPORT_FOOTPRINT_CHOICES

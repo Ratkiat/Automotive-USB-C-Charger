@@ -1,0 +1,125 @@
+LOCAL COMPONENT EXPORT v0.5
+START: 2026-10-28 21:08:49.059
+21:08:49.059 ENTRY: Run Script wrapper reached; before export function
+21:08:49.060 ENTRY: export function body reached
+21:08:49.060 PREFLIGHT: check PCBServer and Client
+21:08:49.060 PREFLIGHT: GetWorkspace
+21:08:49.060 PREFLIGHT: focused document
+21:08:49.063 PREFLIGHT: focused document path
+21:08:49.063 SELECTION: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\01_Main_Circuit.SchDoc
+21:08:49.064 PREFLIGHT: read active schematic
+21:08:49.066 PREFLIGHT: read source view
+21:08:49.067 PREFLIGHT: find owning project
+21:08:49.067 PREFLIGHT: project and export controls ready
+21:08:49.068 PREFLIGHT: initialize selection
+21:08:49.069 STAGE: choose export options
+21:08:53.435 STAGE: plan selected symbols
+21:08:53.476 SYMBOL PLAN: 1 selected; 1 library entries
+21:08:53.476 STAGE: read selected footprint sources
+21:08:53.494 STAGE: resolve all schematic footprint choices
+21:08:53.508 RESOLVE FOOTPRINT CHOICE: P1 -> 638207122002
+21:08:53.538 Donor: P1
+Source: Altium Content Vault
+Donor library identifier: Altium Content Vault
+Donor item: CMP-03913-107328823-2
+Model library lookup: 
+
+21:08:53.543 CHOICE CACHE: prefer exact revisions; allow unambiguous incomplete metadata with warnings; work folder: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542
+21:08:55.319 CHOICE CACHE WARNING: 638207122002: cache GUID metadata is incomplete; revision could not be verified. Source: C:\ProgramData\Altium\Altium Designer {75DD39ED-3F48-44C4-849F-281C3BFF62A4}\VaultsFileCache\1724141E5E35C79C544B17114BD0A418\Released\638207122002.PcbLib
+21:08:56.156 CACHED FOOTPRINT CHOICE: 638207122002 <- C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542\choice-0.PcbLib
+21:08:56.157 STAGE: read existing project library
+21:08:56.542 EXPORT PLAN:
+Selection: 01_Main_Circuit.SchDoc
+Source: selected schematic footprint choices; no PCB required.
+
+ADD  638207122002  <- P1 (schematic choice)
+All existing schematic footprint choices are included; the active choice is kept.
+
+LINK 1 selected schematic symbol(s) to the local file.
+Component Workspace source and all footprint-choice Workspace links will be cleared.
+SKIP entries reuse the existing local footprint; pin maps and parameters are kept.
+
+Symbols -> ProjectSymbols.SchLib:
+638207122002
+
+Same-name symbols reuse the first selected instance; conflicting data stops export.
+
+21:08:56.559 LOCAL COMPONENT EXPORT v0.5
+21:08:56.560 SELECTION: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\01_Main_Circuit.SchDoc
+21:08:56.560 LINK SELECTED SCHEMATIC SYMBOLS: 1
+21:08:56.560 SOURCE: schematic model libraries/cache; no PCB is read or updated.
+21:08:56.560 PROJECT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Automotive USB-C Charger.PrjPcb
+21:08:56.560 TARGET: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints.PcbLib
+21:08:56.561 STAGE: snapshot schematic parameters
+PARAMETER SNAPSHOT: UID=ORMUMVRZ; count=1
+COMMENT: 638207122002
+DESCRIPTION: Conn, R/A Hdr, Stamped Tab, 2P, 5.08Mm Rohs Compliant: Yes
+PARAMETER: Gender = Male
+21:08:56.570 PARAMETER SNAPSHOTS SAVED: 1
+21:08:56.573 ADD: 638207122002 <- P1 (schematic choice)
+21:08:56.573 PCB INSTANCE: 
+21:08:56.573 STAGE: stage schematic footprint sources
+21:08:59.003 SOURCE LIBRARY CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542\choice-0.PcbLib
+21:08:59.370 STAGE: clear Workspace links in the temporary library (choose Yes)
+21:09:02.451 STAGE: merge selected footprints into a working library
+21:09:05.991 MERGED: 638207122002
+21:09:06.451 CLOSE DOCUMENT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559-merged.PcbLib
+21:09:06.820 DOCUMENT CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559-merged.PcbLib
+21:09:06.821 STAGE: verify saved library
+21:09:08.744 CLOSE DOCUMENT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559-merged.PcbLib
+21:09:08.962 DOCUMENT CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559-merged.PcbLib
+21:09:08.963 STAGE: publish verified project library
+21:09:08.966 BACKUP: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints.PcbLib.FootprintExport-20261028_210856_559.bak
+21:09:08.966 CLOSE DOCUMENT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints.PcbLib
+21:09:09.306 DOCUMENT CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints.PcbLib
+21:09:09.310 RESULT: PUBLISHED
+21:09:09.310 STAGE: resolve published footprints for local linking
+21:09:09.315 STALE FOOTPRINT INDEX: 638207122002 in C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints.PcbLib
+21:09:09.345 VERIFIED LOCAL FOOTPRINT SOURCE: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints-20261028_210909_316.PcbLib
+21:09:09.345 STAGE: export selected symbols
+21:09:09.347 SYMBOL STAGE: open staged schematic library
+21:09:11.574 SYMBOL COPY: 638207122002
+21:09:11.845 CLOSE DOCUMENT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\LocalComponents-20261028_210909_346.SchLib
+21:09:12.226 DOCUMENT CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\LocalComponents-20261028_210909_346.SchLib
+21:09:12.227 SYMBOL STAGE: verify saved library
+21:09:15.649 CLOSE DOCUMENT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\LocalComponents-20261028_210909_346.SchLib
+21:09:16.072 DOCUMENT CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\LocalComponents-20261028_210909_346.SchLib
+21:09:16.075 SYMBOL BACKUP: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectSymbols.SchLib.LocalComponents-20261028_210909_346.bak
+21:09:16.076 SYMBOL RESULT: PUBLISHED C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectSymbols.SchLib
+21:09:16.076 CLEANUP FILE: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\LocalComponents-20261028_210909_346.SchLib
+21:09:16.084 TEMPORARY FILE DELETED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\LocalComponents-20261028_210909_346.SchLib
+21:09:16.085 STAGE: verify local library before linking schematic symbols
+21:09:17.648 STAGE: link selected schematic symbols to local footprints
+21:09:17.659 LINK LOCAL: P1; UID=ORMUMVRZ; footprint=638207122002
+21:09:17.659 PREVIOUS COMPONENT WORKSPACE: vault=B7D15EC3-160A-466F-A46C-7801FE6295A7; item=EC24B481-FAAF-44D6-B87C-BBDFCE053603; revision=2A4DE176-AAF6-4BC2-BA64-F81C8437EC8E
+21:09:17.660 PREVIOUS FOOTPRINT:
+Footprint: 638207122002
+Current: 1  UseComponentLibrary: 1
+Integrated: 0  Locked: 1
+Database link locked: 1
+Pin map: (2:2),(1:1)
+Model type: PCBLIB
+Data-file link count: 0
+Model Vault GUID: B7D15EC3-160A-466F-A46C-7801FE6295A7
+Model Item GUID: 5B8A1FFD-61F6-4EE2-B560-1ACC5D2069A8
+Model Revision GUID: CFB71233-CE1B-4608-A472-AD8B9B489651
+
+21:09:17.665 PARAMETERS VERIFIED: UID=ORMUMVRZ; count=1
+21:09:17.667 LOCAL LINK VERIFIED: ORMUMVRZ -> C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\ProjectFootprints-20261028_210909_316.PcbLib
+21:09:17.671 RESULT: LOCAL LINKS VERIFIED on 1 schematic symbols
+21:09:17.671 STAGE: link selected local symbols
+21:09:17.702 SYMBOL LINK: UID=ORMUMVRZ; 638207122002
+21:09:17.714 CLEANUP: restore source view and release PCB/library references
+21:09:17.715 CLEANUP FILE: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559.PcbDoc
+21:09:17.715 CLEANUP FILE: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559.PcbLib
+21:09:17.723 CLOSE DOCUMENT: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559.PcbLib
+21:09:18.070 DOCUMENT CLOSED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559.PcbLib
+21:09:18.071 TEMPORARY FILE DELETED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559.PcbLib
+21:09:18.072 CLEANUP FILE: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559-merged.PcbLib
+21:09:18.080 TEMPORARY FILE DELETED: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\Libraries\FootprintExport-20261028_210856_559-merged.PcbLib
+21:09:18.080 CLEANUP: open published project library
+21:09:20.326 CLEANUP: free selection lists
+21:09:20.340 CLEANUP COMPLETE
+21:09:20.341 RESULT DIALOG: opening
+21:09:22.800 RESULT DIALOG: closed
+21:09:22.801 EXPORT PROCEDURE: return

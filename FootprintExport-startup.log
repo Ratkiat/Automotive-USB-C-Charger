@@ -1,25 +1,46 @@
 LOCAL COMPONENT EXPORT v0.5
-START: 2026-10-27 17:50:57.650
-17:50:57.650 ENTRY: Run Script wrapper reached; before export function
-17:50:57.650 ENTRY: export function body reached
-17:50:57.650 PREFLIGHT: check PCBServer and Client
-17:50:57.650 PREFLIGHT: GetWorkspace
-17:50:57.650 PREFLIGHT: focused document
-17:50:57.651 PREFLIGHT: focused document path
-17:50:57.651 SELECTION: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Sheet1.SchDoc
-17:50:57.651 PREFLIGHT: read active schematic
-17:50:57.652 PREFLIGHT: read source view
-17:50:57.652 PREFLIGHT: find owning project
-17:50:57.653 PREFLIGHT: project and export controls ready
-17:50:57.653 PREFLIGHT: initialize selection
-17:50:57.654 STAGE: choose export options
-17:51:00.543 STAGE: plan selected symbols
-17:51:00.621 SYMBOL PLAN: 1 selected; 1 library entries
-17:51:00.621 STAGE: read selected footprint sources
-17:51:00.630 STAGE: resolve all schematic footprint choices
-17:51:00.634 RESOLVE FOOTPRINT CHOICE: NTC1 -> NTCS0603_VIS
-17:51:00.649 Donor: NTC1
-Source: ProjectSymbols.SchLib
-Data-file lookup: C:\Users\rattakiat\OneDrive - Ampas Industries Co.,ltd\Documents\PROJECTS\USB Charger - TI\Libraries\ProjectFootprints.PcbLib
+START: 2026-10-28 21:08:49.059
+21:08:49.059 ENTRY: Run Script wrapper reached; before export function
+21:08:49.060 ENTRY: export function body reached
+21:08:49.060 PREFLIGHT: check PCBServer and Client
+21:08:49.060 PREFLIGHT: GetWorkspace
+21:08:49.060 PREFLIGHT: focused document
+21:08:49.063 PREFLIGHT: focused document path
+21:08:49.063 SELECTION: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\01_Main_Circuit.SchDoc
+21:08:49.064 PREFLIGHT: read active schematic
+21:08:49.066 PREFLIGHT: read source view
+21:08:49.067 PREFLIGHT: find owning project
+21:08:49.067 PREFLIGHT: project and export controls ready
+21:08:49.068 PREFLIGHT: initialize selection
+21:08:49.069 STAGE: choose export options
+21:08:53.435 STAGE: plan selected symbols
+21:08:53.476 SYMBOL PLAN: 1 selected; 1 library entries
+21:08:53.476 STAGE: read selected footprint sources
+21:08:53.494 STAGE: resolve all schematic footprint choices
+21:08:53.508 RESOLVE FOOTPRINT CHOICE: P1 -> 638207122002
+21:08:53.538 Donor: P1
+Source: Altium Content Vault
+Donor library identifier: Altium Content Vault
+Donor item: CMP-03913-107328823-2
+Model library lookup: 
 
-17:51:00.652 STAGE: read existing project library
+21:08:53.543 CHOICE CACHE: prefer exact revisions; allow unambiguous incomplete metadata with warnings; work folder: C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542
+21:08:55.319 CHOICE CACHE WARNING: 638207122002: cache GUID metadata is incomplete; revision could not be verified. Source: C:\ProgramData\Altium\Altium Designer {75DD39ED-3F48-44C4-849F-281C3BFF62A4}\VaultsFileCache\1724141E5E35C79C544B17114BD0A418\Released\638207122002.PcbLib
+21:08:56.156 CACHED FOOTPRINT CHOICE: 638207122002 <- C:\Users\Lenovo\Desktop\Altium Projects\Automotive USB-C Charger\FootprintLink-import-20261028_210853_542\choice-0.PcbLib
+21:08:56.157 STAGE: read existing project library
+21:08:56.542 EXPORT PLAN:
+Selection: 01_Main_Circuit.SchDoc
+Source: selected schematic footprint choices; no PCB required.
+
+ADD  638207122002  <- P1 (schematic choice)
+All existing schematic footprint choices are included; the active choice is kept.
+
+LINK 1 selected schematic symbol(s) to the local file.
+Component Workspace source and all footprint-choice Workspace links will be cleared.
+SKIP entries reuse the existing local footprint; pin maps and parameters are kept.
+
+Symbols -> ProjectSymbols.SchLib:
+638207122002
+
+Same-name symbols reuse the first selected instance; conflicting data stops export.
+

@@ -1,0 +1,21 @@
+Added Component: Designator=P1(638263122002)
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=PGND Pin=P1-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Added Member To Class: ClassName=01_Main_Circuit Member=Component P1 638207122002
+Add Class Member: Failed to add class member : Component TP1 Test point
+Add Class Member: Failed to add class member : Component TP2 Test point
+Add Class Member: Failed to add class member : Component TP3 Test point
+Add Class Member: Failed to add class member : Component TP4 Test point
+Add Class Member: Failed to add class member : Component TP5 Test point
+Add Class Member: Failed to add class member : Component TP6 Test point
+Add Class Member: Failed to add class member : Component TP7 Test point
+Add Class Member: Failed to add class member : Component TP8 Test point

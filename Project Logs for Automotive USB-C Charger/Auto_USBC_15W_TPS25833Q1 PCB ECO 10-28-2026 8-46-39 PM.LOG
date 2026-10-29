@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=PGND Pin=P1-1
+Removed Pin From Net: NetName=PGND Pin=P1-1
+Removed Pin From Net: NetName=VBAT Pin=P1-2
+Removed Pin From Net: NetName=VBAT Pin=P1-2
+Removed Member From Class: ClassName=01_Main_Circuit Member=P1
+Added Component: Designator=J?(FP-502352-0201-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "KR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "65153480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.0066mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8536694040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=J?-1
+Added Pin To Net: NetName=PGND Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Added Member To Class: ClassName=01_Main_Circuit Member=Component J? 502352-0201
+Add Class Member: Failed to add class member : Component TP1 Test point
+Add Class Member: Failed to add class member : Component TP2 Test point
+Add Class Member: Failed to add class member : Component TP3 Test point
+Add Class Member: Failed to add class member : Component TP4 Test point
+Add Class Member: Failed to add class member : Component TP5 Test point
+Add Class Member: Failed to add class member : Component TP6 Test point
+Add Class Member: Failed to add class member : Component TP7 Test point
+Add Class Member: Failed to add class member : Component TP8 Test point
